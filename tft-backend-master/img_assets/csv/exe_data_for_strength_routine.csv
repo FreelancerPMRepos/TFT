@@ -1,0 +1,28 @@
+workout ,day,exe_id,exe_category_id,exe_category,exe_name
+A,1,439,5,Chest,Shoulder-Width Bench Press
+A,1,462,8,Shoulders,Barbell Press
+A,1,468,17,Upper Back,Chin-Up
+A,1,466,10,Triceps,Supine Lying Triceps Extension
+A,1,442,3,Biceps,Standing Barbell Curl Supine Grip
+B,2,461,15,Quads,Full Range-of-Motion Low-Bar Back Squat
+B,2,467,16,Trapezius,Barbell Shrug
+B,2,460,14,Lower Back,Deadlift
+B,2,443,4,Calves,Donkey Raises
+B,2,26,12,Abs,Leg Pull-In
+C,3,461,15,Quads,Full Range-of-Motion Low-Bar Back Squat
+C,3,467,16,Trapezius,Barbell Shrug
+C,3,228,5,Chest,Dips
+C,3,463,8,Shoulders,Push Press
+C,3,469,17,Upper Back,Pull-Up
+C,3,440,12,Abs,Crunch
+D,4,461,15,Quads,Full Range-of-Motion Low-Bar Back Squat
+D,4,460,14,Lower Back,Deadlift
+D,4,443,4,Calves,Donkey Raises
+D,4,467,16,Trapezius,Barbell Shrug
+D,4,440,12,Abs,Crunch
+E,5,461,15,Quads,Full Range-of-Motion Low-Bar Back Squat
+E,5,460,14,Lower Back,Deadlift
+E,5,111,13,Hamstrings,Hyperextension
+E,5,443,4,Calves,Donkey Raises
+E,5,468,17,Upper Back,Chin-Up
+E,5,467,16,Trapezius,Barbell Shrug

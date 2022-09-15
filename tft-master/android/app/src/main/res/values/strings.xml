@@ -1,0 +1,8 @@
+
+<!-- private final String CODEPUSH_STAGING = "W3N4AOGjyHcWglz0KOGF0bkdelzK3WGcQ0ANb";
+private final String CODEPUSH_PRODUCTION = "74NJ063_oIZVTuRCOgP702FoWM5-ZV5ZLYckl"; -->
+
+<resources>
+    <string name="app_name">TFT</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">W3N4AOGjyHcWglz0KOGF0bkdelzK3WGcQ0ANb</string>
+</resources>

@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+all. filter=lfs diff=lfs merge=lfs -text
+“*.hprof” filter=lfs diff=lfs merge=lfs -text

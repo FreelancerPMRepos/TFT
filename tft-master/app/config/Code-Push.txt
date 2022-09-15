@@ -1,0 +1,37 @@
+steps...
+
+1) npm install -g code-push-cli / sudo npm install -g code-push-cli
+2) code-push register (register our app in app center)
+3) code-push app add Kashtah-iOS ios react-native
+4) code-push app add TFT android react-native
+5) code-push release-react TFT android -m --description "New changes"
+6) code-push release-react Kashtah-iOS ios -m --description "New changes"
+
+<---------------------- Checking Deployment History ---------------------->
+
+code-push deployment history <app name> <deploymentName>
+example :- code-push deployment history TFT Production
+           code-push deployment history Kashtah-iOS Production
+
+
+Android Deployment Keys
+
+┌────────────┬────────────────────────────────────────┐
+│ Name       │ Deployment Key                         │
+├────────────┼────────────────────────────────────────┤
+│ Production │ 2XlmvkJqVF3Fvzkens9NIjsrXRlAU-yPbhgTB4 │
+├────────────┼────────────────────────────────────────┤
+│ Staging    │ ycpk2PEO5A-J4s6UE-bUWlWE3iaofsYxWjFzE  │
+└────────────┴────────────────────────────────────────┘
+
+
+iOS Deployment Key
+
+┌────────────┬────────────────────────────────────────┐
+│ Name       │ Deployment Key                         │
+├────────────┼────────────────────────────────────────┤
+│ Production │ GjDZYqP1NXozNMTruY7QRLTXO-E_gxaZ5Gjsva │
+├────────────┼────────────────────────────────────────┤
+│ Staging    │ nNRzXfuY1PqyMR7F2A-6nvpkkGjL_mayCMXtZ  │
+└────────────┴────────────────────────────────────────┘
+

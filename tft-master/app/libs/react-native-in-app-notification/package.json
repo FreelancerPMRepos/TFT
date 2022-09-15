@@ -1,0 +1,65 @@
+{
+  "_from": "react-native-in-app-notification",
+  "_id": "react-native-in-app-notification@3.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ughONPDR4FpjvZPClyHX5DLbPtmKnVaHfMz2nEPw0H/TqIjV63F07O+zOhg/MWop2YFOOuCuuHbqJnF1hywnBQ==",
+  "_location": "/react-native-in-app-notification",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-in-app-notification",
+    "name": "react-native-in-app-notification",
+    "escapedName": "react-native-in-app-notification",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-in-app-notification/-/react-native-in-app-notification-3.1.0.tgz",
+  "_shasum": "2396c1acd677b1bd73d32911acec47d4a842d90f",
+  "_spec": "react-native-in-app-notification",
+  "_where": "/Users/krunalpanchal/Desktop/Projects/Kashtah1",
+  "author": {
+    "name": "Rob Calcroft",
+    "email": "robcalcroft@users.noreply.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/robcalcroft/react-native-in-app-notification/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "hoist-non-react-statics": "^3.0.1",
+    "react-native-iphone-x-helper": "^1.2.0",
+    "react-native-swipe-gestures": "^1.0.2"
+  },
+  "deprecated": false,
+  "description": "Customisable in-app notification component for React Native",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "homepage": "https://github.com/robcalcroft/react-native-in-app-notification#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-in-app-notification",
+  "peerDependencies": {
+    "prop-types": "^15.5.10",
+    "react": ">=16.3.0",
+    "react-native": ">=0.54.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcalcroft/react-native-in-app-notification.git"
+  },
+  "scripts": {
+    "lint": "eslint Notification.js DefaultNotificationBody.ios.js DefaultNotificationBody.android.js"
+  },
+  "version": "3.1.0"
+}

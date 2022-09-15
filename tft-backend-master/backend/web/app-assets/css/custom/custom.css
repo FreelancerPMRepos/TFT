@@ -1,0 +1,121 @@
+/*================================================================================
+	Item Name: Materialize - Material Design Admin Template
+	Version: 5.0
+	Author: PIXINVENT
+	Author URL: https://themeforest.net/user/pixinvent/portfolio
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.help-block{
+	font-size: .8rem;
+    position: relative;
+    top: 0rem;
+    left: 0rem;
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%);
+    color: #ff4081;
+}
+.user-placeholder {
+    height: 100px;
+    border: 1px solid #ddd;
+    padding: 49px;
+    background-image: url(placeholder.jpg);
+    background-size: 96px 110px;
+    /* background: red; */
+}
+.user-placeholder-md {
+    border: 1px solid #ddd;
+    padding: 25px;
+    background-image: url(placeholder.jpg);
+    background-size: 50px 60px;
+}
+.user-placeholder-sm {
+    border: 1px solid #ddd;
+    padding: 16px;
+    background-image: url(placeholder.jpg);
+    background-size: 33px 34px;
+}
+.video-user-action-span {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.video-basic-info th {
+    width: 150px;
+}
+
+.video-payment-log th {
+    width: 200px;
+}
+.brand-color{
+    color:#f54081 !important;
+}
+.make-paid-price {
+    cursor: pointer;
+}
+
+.mail-management table .filters {
+    display: none;
+}
+.mail-management table [type='checkbox']:not(:checked), [type='checkbox']:checked {
+    position: relative !important;
+    pointer-events: auto !important;
+    opacity: 0 !important;
+}
+
+.mail-management .mail-row .list-content .list-title {
+    font-weight: 700;
+    color: #424242;
+}
+
+.mail-management .mail-row .list-content {
+    width: 85%;
+    float: left;
+}
+
+.mail-management .mail-row .list-content .list-desc {
+    font-size: .9rem;
+    line-height: 1.35rem;
+    margin-top: .25rem;
+    color: #616161;
+    white-space: normal;
+}
+.mail-management .mail-row .list-right {
+    width: 15%;
+    float: right;
+}
+
+.mail-management .mail-row .list-date {
+    font-size: .8rem;
+    color: #616161;
+    text-align: right;
+}
+
+.gallery-upload-container {
+    width: 100%;
+    height: 230px;
+    display: flex;
+    border: 1px solid #ccc;
+    padding: 10px;
+    align-items: center;
+    margin-top: 55px;
+}
+.border-active{
+    border: 5px solid #5330a1;
+}
+.border-deactive{
+    border: 5px solid #E91E63;
+}
+.select-wrapper {
+    padding: 0 30px 0 0;
+}
+.select-wrapper input {
+    padding-right: 30px !important;
+}

@@ -1,0 +1,17 @@
+{
+  "root": true,
+  "extends": "@react-native-community",
+  "plugins": ["prettier"],
+  "parser": "babel-eslint",
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": true,
+        "implicit-arrow-linebreak": "off",
+        "import/no-extraneous-dependencies": ["error", {
+          "devDependencies": false, "optionalDependencies": false, "peerDependencies": false, "packageDir": "/"}]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+Sport,Type,Total Week,PoST (Start From Week 1),SST (Start From Week (PoST (Start From Week 1))+1),PrST (Start From Week (SST (Start From Week (PoST (Start From Week 1))+1)+1)
+Baseball,Regular,4,3,4,0
+Basketball,Regular,5,3,5,0
+All-Around Athlete,Regular,8,3,6,8
+Boxing,Regular,8,3,6,8
+Golf,Regular,3,3,0,0
+Gymnastics,Regular,5,3,5,0
+Ice Hockey,Regular,8,3,6,8
+Rowing,Regular,7,1,4,7
+Wrestling,Regular,8,3,6,8
+Volleyball,Regular,5,3,5,0
+Tennis,Regular,5,3,5,0
+Soccer,Regular,7,3,5,7
+Skiing (Cross-Country),Regular,5,1,2,5
+Skiing (Downhill),Regular,8,3,6,8
+Running,Regular,7,3,5,7
+Cricket,Regular,4,3,4,0

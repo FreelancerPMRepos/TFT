@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982782613709",
+    "firebase_url": "https://tftproject-c2e83.firebaseio.com",
+    "project_id": "tftproject-c2e83",
+    "storage_bucket": "tftproject-c2e83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982782613709:android:457b0f3943106c5f053184",
+        "android_client_info": {
+          "package_name": "com.org.TFT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982782613709-dne1esr51shadkjtvcisd3e0ikukomia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNIwVSAFlqUxmeSUS93ou1ONNgyqxDA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982782613709-dne1esr51shadkjtvcisd3e0ikukomia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

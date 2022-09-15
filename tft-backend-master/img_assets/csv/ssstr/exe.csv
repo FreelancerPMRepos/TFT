@@ -1,0 +1,510 @@
+Sports,Season,Exercises
+Baseball,"
+Pre",Bent-Knee Sit-Up
+Baseball,Pre,Alternated Dip Stand Leg Raise
+Baseball,Pre,Seated Barbell Twist
+Baseball,Pre,Flat-Footed Medium-Stance Barbell Squat
+Baseball,Pre,Flat-Footed Medium-Stance Barbell Squat
+Baseball,Pre,Thigh Extension on Leg Extension Machine
+Baseball,Pre,Thigh Biceps Curl on Leg Extension Machine
+Baseball,Pre,Dumbbell Side Lunge
+Baseball,Pre,Bent-Arm Lateral
+Baseball,Pre,Seated Two-Arm Low Lat Pull-In
+Baseball,Pre,Seated Palms-Out Dumbbell Press
+Baseball,Pre,Hyperextension
+Baseball,Pre,Standing Close-Grip Triceps Press-Down on Lat Machine
+Baseball,Pre,Dips
+Baseball,Pre,Seated Dumbbell Curl
+Baseball,Pre,Seated One-Arm Dumbbell Palms-Up Wrist Curl
+Baseball,Pre,Seated One-Arm Dumbbell Palms-Down Wrist Curl
+Baseball,In,High-Heel Sit-Up
+Baseball,In,Stiff-Legged Barbell Dead Lift
+Baseball,In,Stiff-Legged Barbell Dead Lift
+Baseball,In,Medium-Stance Top-Pad Leg Press on Universal Machine
+Baseball,In,Step-Ups with Barbell
+Baseball,In,Medium- Grip Incline Barbell Bench Press
+Baseball,In,Medium-Grip Barbell Upright Rowing
+Baseball,In,Wide-Grip Front Lat Pull-Down
+Baseball,In,Seated One-Arm Dumbbell Palms-Up Wrist Curl
+Baseball,In,Seated One-Arm Dumbbell Palms-Down Wrist Curl
+Baseball,In,Standing Arms-Extended Wrist-Roller Wrist Curl
+Baseball,Off,Incline Arms-Extended Sit-Up
+Baseball,Off,Incline Leg Pull-In
+Baseball,Off,Seated Barbell Twist
+Baseball,Off,Thigh Extension on Leg Extension Machine
+Baseball,Off,Thigh Biceps Curl on Leg Extension Machine
+Baseball,Off,Heels-Elevated Wide-Stance Barbell Hack Squat
+Baseball,Off,Hip Abduction
+Baseball,Off,Hip Adduction
+Baseball,Off,Medium-Grip Barbell Bench Press
+Baseball,Off,Straight-Arm Dumbbell Pullover
+Baseball,Off,Straight-Arm Dumbbell Pullover
+Baseball,Off,Barbell Shoulder Shrug
+Baseball,Off,Bent-Over Wide-Grip Barbell Rowing
+Baseball,Off,Incline Close-Grip Easy-Curl Bar Triceps Curl
+Baseball,Off,Standing Medium-Grip Easy-Curl Bar Curl
+Baseball,Off,Seated Palms-Down Barbell Wrist Curl
+Baseball,Off,Seated Palms-Up Barbell Wrist Curl
+Basketball,Off,Medium-Grip Barbell Bench Press
+Basketball,Off,Standard Bent-Over Two-Arm Long Bar Rowing
+Basketball,Off,Seated Barbell Military Press
+Basketball,Off,Wide-Grip Front Lat Pull-Down
+Basketball,Off,Bent-Arm Dumbbell Pullover
+Basketball,Off,Incline Dumbbell Curl
+Basketball,Off,Flat-Footed Medium-Stance Barbell Squat
+Basketball,Off,Freehand Side Lunge
+Basketball,Off,Thigh Extension on Leg Extension Machine
+Basketball,Off,Thigh Biceps Curl on Leg Extension Machine
+Basketball,Off,Standing Toe Raise on Wall Calf Machine
+Basketball,Off,Hyperextension
+Basketball,Off,Bent-Knee Sit-Up
+Basketball,Pre,Flat Dumbbell Press
+Basketball,Pre,Bent-Over Two-Arm Dumbbell Rowing
+Basketball,Pre,Seated Palms-In Alternated Dumbbell Press
+Basketball,Pre,Medium-Grip Front Chin
+Basketball,Pre,Medium-Grip High Pull
+Basketball,Pre,Incline Close-Grip Barbell Triceps Curl
+Basketball,Pre,Seated Alternated Dumbbell Curl
+Basketball,Pre,Jackknife Sit-Up
+Basketball,Pre,Flat-Footed Medium-Stance Barbell Half-Squat
+Basketball,Pre,Step-Ups with Barbell
+Basketball,Pre,Thigh Extension on Leg Extension Machine
+Basketball,Pre,Thigh Biceps Curl on Leg Extension Machine
+Basketball,Pre,Standing One-Legged Toe Raise on Ram Thrust Machine
+Basketball,Pre,Stiff-Legged Barbell Dead Lift
+Basketball,Pre,High-Heel Sit-Up
+Basketball,In,Incline Dumbbell Press
+Basketball,In,Seated Two-Arm High Lat Pull-In
+Basketball,In,Medium-Grip Barbell Upright Rowing
+Basketball,In,Dips
+Basketball,In,Standing Close-Grip Triceps Press-Down on Lat Machine
+Basketball,In,Standing Medium-Grip Easy-Curl Bar Curl
+Basketball,In,Medium-Stance Top-Pad Leg Press on Universal Machine
+Basketball,In,Freehand Side Lunge
+Basketball,In,Thigh Extension on Leg Extension Machine
+Basketball,In,Thigh Biceps Curl on Leg Extension Machine
+Basketball,In,Hyperextension
+Basketball,In,Over-a-Bench Sit-Up
+Basketball,In,Seated Barbell Twist
+Boxing,In,Bent-Arm Lateral
+Boxing,In,Close-Grip Front Lat Pull-Down
+Boxing,In,Standing Dumbbell Straight-Arm Front Deltoid Raise
+Boxing,In,Seated Two-Arm Low Lat Pull-In
+Boxing,In,Barbell Shoulder Shrug
+Boxing,In,Medium-Grip Barbell Bench Press
+Boxing,In,Thigh Extension on Leg Extension Machine
+Boxing,In,Thigh Biceps Curl on Leg Extension Machine
+Boxing,In,Freehand Jump Squat
+Boxing,In,Wrestler's Bridge
+Boxing,In,Seated Palms-Up Barbell Wrist Curl
+Boxing,In,High-Heel Sit-Up
+Boxing,In,Seated Flat Bench Leg Pull-In
+Golf,Off,Lying Leg Crossover
+Golf,Off,Leg Pull-In
+Golf,Off,Seated Barbell Twist
+Golf,Off,Barbell Side Bend
+Golf,Off,Incline Back-Kick
+Golf,Off,Hyperextension
+Golf,Off,Lying Rear Deltoid Raise
+Golf,Off,Standing Close-Grip Triceps Press-Down on Lat Machine
+Golf,Off,Seated Palms-Up Barbell Wrist Curl
+Golf,Off,Seated Palms-Down Barbell Wrist Curl
+Golf,Off,Medium-Stance Top-Pad Leg Press on Universal Machine
+Golf,Pre,Hip Roll
+Golf,Pre,Dumbbell Side Bend
+Golf,Pre,Hyperextension
+Golf,Pre,Lying Side Leg Raise
+Golf,Pre,Lying Leg Crossover
+Golf,Pre,Lying Floor Low-Pulley Across Body Rear Deltoid Raise
+Golf,Pre,Standing One-Arm Dumbbell Triceps Curl
+Golf,Pre,Step-Ups with Barbell
+Golf,Pre,Seated Palms-Up Barbell Wrist Curl
+Golf,Pre,Seated Palms-Down Barbell Wrist Curl
+Golf,In,Hyperextension
+Golf,In,Bent-Knee Sit-Up
+Golf,In,Seated Barbell Twist
+Golf,In,Freehand Side Lunge
+Golf,In,Seated Side Lateral Raise
+Golf,In,Wide-Grip Rear Lat Pull-Down
+Golf,In,Incline Lateral
+Golf,In,Kneeling Head-Supported Close-Grip Triceps Extension on High Pulley
+Golf,In,Standing Arms-Extended Wrist-Roller Wrist Curl
+Gymnastics,Off,Medium-Grip Barbell Bench Press
+Gymnastics,Off,Close-Grip Front Lat Pull-Down
+Gymnastics,Off,Standing Military Press
+Gymnastics,Off,Stiff-Legged Dumbbell Dead Lift
+Gymnastics,Off,Dips
+Gymnastics,Off,Standing Close-Grip Triceps Press-Down on Lat Machine
+Gymnastics,Off,Standing Dumbbell Curl
+Gymnastics,Off,Medium-Stance Lower-Pad Leg Press on Universal Machine
+Gymnastics,Off,Thigh Extension on Leg Extension Machine
+Gymnastics,Off,Thigh Biceps Curl on Leg Extension Machine
+Gymnastics,Off,Hip Abduction
+Gymnastics,Off,Standing One-Legged Toe Raise on Ram Thrust Machine
+Gymnastics,Off,Dip Stand Leg Raise
+Gymnastics,Off,Lying Leg Crossover
+Gymnastics,Off,Hyperextension
+Gymnastics,Pre,Incline Lateral
+Gymnastics,Pre,Wide-Grip Decline Barbell Bench Press
+Gymnastics,Pre,Bent-Arm Barbell Pullover
+Gymnastics,Pre,Medium-Grip Front Chin
+Gymnastics,Pre,Seated Two-Arm High Lat Pull-In
+Gymnastics,Pre,Seated Palms-In Alternated Dumbbell Press
+Gymnastics,Pre,Seated Side Lateral Raise
+Gymnastics,Pre,Wide-Grip Rear Chin
+Gymnastics,Pre,Stiff-Legged Barbell Dead Lift
+Gymnastics,Pre,Heels-Elevated Medium-Stance Barbell Front Squat
+Gymnastics,Pre,Thigh Extension on Leg Extension Machine
+Gymnastics,Pre,Thigh Biceps Curl on Leg Extension Machine
+Gymnastics,Pre,Dips
+Gymnastics,Pre,Standing Medium-Grip Easy-Curl Bar Curl
+Gymnastics,Pre,Over-a-Bench Sit-Up
+Gymnastics,Pre,Jackknife Sit-Up
+Gymnastics,In,Standing Military Press
+Gymnastics,In,Bent-Arm Lateral
+Gymnastics,In,Medium-Grip Front Chin
+Gymnastics,In,Barbell Power Clean and Press
+Gymnastics,In,Hyperextension
+Gymnastics,In,Standing Close-Grip Triceps Press-Down on Lat Machine
+Gymnastics,In,Step-Ups with Barbell
+Gymnastics,In,Flat-Footed Medium-Stance Barbell Squat
+Gymnastics,In,High-Heel Sit-Up
+Gymnastics,In,Extension Machine Leg Pull-In
+Ice Hockey,Off,Thigh Extension on Leg Extension Machine
+Ice Hockey,Off,Thigh Biceps Curl on Leg Extension Machine
+Ice Hockey,Off,Barbell Front Lunge
+Ice Hockey,Off,Incline Lateral
+Ice Hockey,Off,Bent-Arm Lateral
+Ice Hockey,Off,Standing Military Press
+Ice Hockey,Off,Standing Dumbbell Upright Rowing
+Ice Hockey,Off,Wide-Grip Rear Lat Pull-Down
+Ice Hockey,Off,Stiff-Legged Barbell Dead Lift
+Ice Hockey,Off,Standing Dumbbell Triceps Curl
+Ice Hockey,Off,Incline Dumbbell Curl
+Ice Hockey,Off,Bent-Knee Sit-Up
+Ice Hockey,Off,Alternated Twisting Dumbbell Bend to Opposite Foot
+Ice Hockey,Off,Seated Flat Bench Leg Pull-In
+Ice Hockey,Off,Kneeling Back-Kick
+Ice Hockey,Off,Lying Leg Crossover
+Ice Hockey,Pre,Freehand Side Lunge
+Ice Hockey,Pre,Medium-Stance Top-Pad Leg Press on Universal Machine
+Ice Hockey,Pre,Medium-Grip Barbell Bench Press
+Ice Hockey,Pre,Medium- Grip Incline Barbell Bench Press
+Ice Hockey,Pre,Seated Side Lateral Raise
+Ice Hockey,Pre,Bent-Over Low-Pulley Rear Deltoid Raise
+Ice Hockey,Pre,Close-Grip Front Chin
+Ice Hockey,Pre,Hyperextension
+Ice Hockey,Pre,Incline Close-Grip Easy-Curl Bar Triceps Curl
+Ice Hockey,Pre,Standing Medium-Grip Barbell Curl
+Ice Hockey,Pre,Seated Palms-Up Barbell Wrist Curl
+Ice Hockey,Pre,Feet-Against-Wall Sit-Up
+Ice Hockey,Pre,Stiff-Legged Dumbbell Dead Lift
+Ice Hockey,Pre,Extension Machine Leg Pull-In
+Ice Hockey,Pre,Incline Back-Kick
+Ice Hockey,Pre,Standing Toe Raise on Wall Calf Machine
+Ice Hockey,In,Bent-Knee Sit-Up
+Ice Hockey,In,Flat-Bench Weighted Leg Raise
+Ice Hockey,In,Incline Compound
+Ice Hockey,In,Standing Military Press
+Ice Hockey,In,Bent-Over Two-Arm Dumbbell Rowing
+Ice Hockey,In,Dumbbell Side Lunge
+Ice Hockey,In,Incline Inner-Biceps Curl
+Ice Hockey,In,Seated Palms-Up Barbell Wrist Curl
+Ice Hockey,In,Medium-Stance Top-Pad Leg Press on Universal Machine
+Ice Hockey,In,Seated Barbell Toe Raise
+Rowing,Off,High-Heel Sit-Up
+Rowing,Off,Hyperextension
+Rowing,Off,Medium-Grip Barbell Bench Press
+Rowing,Off,Seated Two-Arm Low Lat Pull-In
+Rowing,Off,Medium- Grip Incline Barbell Bench Press
+Rowing,Off,Bent-Over Dumbbell Rowing
+Rowing,Off,Barbell Power Clean
+Rowing,Off,Standing Medium-Grip Barbell Curl
+Rowing,Off,Flat-Footed Medium-Stance Barbell Squat
+Rowing,Off,Thigh Biceps Curl on Leg Extension Machine
+Rowing,Off,Hip Adduction
+Rowing,Off,Barbell Front Lunge
+Rowing,Off,Stiff-legged dumbbell dead left 
+Rowing,Pre,Incline Leg Pull-In
+Rowing,Pre,Hyperextension
+Rowing,Pre,Medium-Grip Barbell Bench Press
+Rowing,Pre,Seated Two-Arm Low Lat Pull-In
+Rowing,Pre,Incline Lateral
+Rowing,Pre,Hand-On Bench One-Arm Dumbbell Rowing
+Rowing,Pre,Barbell Power Clean
+Rowing,Pre,Standing Medium-Grip Barbell Curl
+Rowing,Pre,Flat-Footed Medium-Stance Barbell Squat
+Rowing,Pre,Thigh Biceps Curl on Leg Extension Machine
+Rowing,Pre,Hip Abduction
+Rowing,Pre,Barbell Front Lunge
+Rowing,Pre,Step-Ups with Barbell
+Rowing,In,Jackknife Sit-Up
+Rowing,In,Hyperextension
+Rowing,In,Medium-Grip Barbell Bench Press
+Rowing,In,Seated Two-Arm Low Lat Pull-In
+Rowing,In,Dips
+Rowing,In,Bent-Over Dumbbell Rowing
+Rowing,In,Barbell Power Clean
+Rowing,In,Standing Medium-Grip Barbell Curl
+Rowing,In,Flat-Footed Medium-Stance Barbell Squat
+Rowing,In,Thigh Biceps Curl on Leg Extension Machine
+Volleyball,Off,Flat-Footed Medium-Stance Barbell Squat
+Volleyball,Off,Freehand Jump Squat
+Volleyball,Off,Incline Lateral
+Volleyball,Off,Seated Two-Arm High Lat Pull-In
+Volleyball,Off,Close-Grip Front Lat Pull-Down
+Volleyball,Off,Hyperextension
+Volleyball,Off,Standing Medium-Grip Front Barbell Raise
+Volleyball,Off,Standing Close-Grip Triceps Press-Down on Lat Machine
+Volleyball,Off,Medium-Grip Push-Ups on Floor
+Volleyball,Off,Seated Concentrated Dumbbell Curl
+Volleyball,Off,Over-a-Bench Sit-Up
+Volleyball,Off,Jackknife Sit-Up
+Volleyball,Off,Bend to Opposite Foot
+Volleyball,Off,Flat Bench Leg Pull-In
+Volleyball,Off,Lying Leg Crossover
+Volleyball,Off,Alternated Low-Pulley Leg Pull-In
+Volleyball,In,Medium-Stance Top-Pad Leg Press on Universal Machine
+Volleyball,In,Step-Ups with Barbell
+Volleyball,In,Straight-Arm Dumbbell Pullover
+Volleyball,In,Barbell Power Clean
+Volleyball,In,Incline Lateral
+Volleyball,In,Close-Grip Front Lat Pull-Down
+Volleyball,In,Standing One-Arm Dumbbell Triceps Curl
+Volleyball,In,Standing Close-Grip Barbell Curl Against Wall
+Volleyball,In,Jackknife Sit-Up
+Volleyball,In,Alternated Dip Stand Leg Raise
+Wrestling,Off,Jackknife Sit-Up
+Wrestling,Off,Seated Barbell Twist
+Wrestling,Off,Hyperextension
+Wrestling,Off,Medium-Stance Hack Squat on Ram Thrust Machine
+Wrestling,Off,Bent-Arm Barbell Pullover and Press
+Wrestling,Off,Medium-Grip Barbell Bench Press
+Wrestling,Off,Seated Side Lateral Raise
+Wrestling,Off,Seated Two-Arm High Lat Pull-In
+Wrestling,Off,Dumbbell Shoulder Shrug
+Wrestling,Off,Straight-Arm Dumbbell Pullover Across Bench
+Wrestling,Off,Standing Close-Grip Triceps Press-Down on Lat Machine
+Wrestling,Off,Standing Medium-Grip Easy-Curl Bar Curl
+Wrestling,Off,Seated Palms-Up Barbell Wrist Curl
+Wrestling,Off,Seated Palms-Down Barbell Wrist Curl
+Wrestling,Off,Wrestler's Bridge
+Wrestling,Pre,Over-a-Bench Sit-Up
+Wrestling,Pre,Bend to Opposite Foot
+Wrestling,Pre,Dip Stand Leg Raise
+Wrestling,Pre,Medium-Grip Barbell Bench Press
+Wrestling,Pre,Straight-Arm Dumbbell Pullover
+Wrestling,Pre,Medium-Grip Barbell Upright Rowing
+Wrestling,Pre,Seated Two-Arm Low Lat Pull-In
+Wrestling,Pre,Barbell Power Clean
+Wrestling,Pre,Incline Close-Grip Easy-Curl Bar Triceps Curl
+Wrestling,Pre,Seated Dumbbell Curl
+Wrestling,Pre,Seated Palms-Up Barbell Wrist Curl
+Wrestling,Pre,Seated Palms-Down Barbell Wrist Curl
+Wrestling,Pre,Alternated Barbell Front Lunge
+Wrestling,Pre,Thigh Extension on Leg Extension Machine
+Wrestling,Pre,Standing Toe Raise on Wall Calf Machine
+Wrestling,In,Bent-Knee Sit-Up
+Wrestling,In,Dip Stand Leg Raise
+Wrestling,In,Barbell Good Morning
+Wrestling,In,Medium- Grip Incline Barbell Bench Press
+Wrestling,In,Straight-Arm Dumbbell Pullover
+Wrestling,In,Bent-Over Two-Arm Dumbbell Rowing
+Wrestling,In,Universal Machine Shoulder Shrug
+Wrestling,In,Freehand Triceps Extension
+Wrestling,In,Thigh Extension on Leg Extension Machine
+Wrestling,In,Thigh Biceps Curl on Leg Extension Machine
+Tennis,Off,Bent-Knee Sit-Up
+Tennis,Off,Seated Barbell Twist
+Tennis,Off,Twisting Hyperextension
+Tennis,Off,Hyperextension
+Tennis,Off,Flat Dumbbell Press
+Tennis,Off,Straight-Arm Dumbbell Pullover Across Bench
+Tennis,Off,Standing Military Press
+Tennis,Off,Bent-Over Head-Supported Two-Arm Dumbbell Rowing
+Tennis,Off,Seated Two-Arm High Lat Pull-In
+Tennis,Off,Dips
+Tennis,Off,Seated Dumbbell Curl
+Tennis,Off,Seated Palms-Down Barbell Wrist Curl
+Tennis,Off,Seated Palms-Up Barbell Wrist Curl
+Tennis,Off,Freehand Jump Squat
+Tennis,Off,Barbell Front Lunge
+Tennis,Off,Freehand Side Lunge
+Tennis,In,Hip Roll
+Tennis,In,Barbell Good Morning
+Tennis,In,Incline Lateral
+Tennis,In,Medium-Grip Straight-Arm Barbell Pullover
+Tennis,In,Seated Side Lateral Raise
+Tennis,In,Close-Grip Front Lat Pull-Down
+Tennis,In,Standing Close-Grip Triceps Press-Down on Lat Machine
+Tennis,In,Step-Ups with Barbell
+Tennis,In,Freehand Side Lunge
+Tennis,In,Standing Arms-Extended Wrist-Roller Wrist Curl
+Skiing (Downhill),In,Medium-Stance Top-Pad Leg Press on Universal Machine
+Skiing (Downhill),In,Thigh Extension on Leg Extension Machine
+Skiing (Downhill),In,Thigh Biceps Curl on Leg Extension Machine
+Skiing (Downhill),In,Barbell Power Clean
+Skiing (Downhill),In,Hyperextension
+Skiing (Downhill),In,Incline Dumbbell Press
+Skiing (Downhill),In,Close-Grip Front Lat Pull-Down
+Skiing (Downhill),In,Dips
+Skiing (Downhill),In,Alternated Dip Stand Leg Raise
+Skiing (Downhill),Pre,Barbell Power Clean and Press
+Skiing (Downhill),Pre,Incline Dumbbell Press
+Skiing (Downhill),Pre,Standing Palms-In Alternated Dumbbell Press
+Skiing (Downhill),Pre,Medium-Grip Barbell Upright Rowing
+Skiing (Downhill),Pre,Standard Bent-Over Two-Arm Long Bar Rowing
+Skiing (Downhill),Pre,Reverse Close-Grip Front Chin
+Skiing (Downhill),Pre,Standing Close-Grip Easy-Curl Bar Triceps Curl
+Skiing (Downhill),Pre,Seated Dumbbell Curl
+Skiing (Downhill),Pre,Flat-Footed Medium-Stance Barbell Squat
+Skiing (Downhill),Pre,Step-Ups with Barbell
+Skiing (Downhill),Pre,Thigh Biceps Curl on Leg Extension Machine
+Skiing (Downhill),Pre,Thigh Extension on Leg Extension Machine
+Skiing (Downhill),Pre,High-Heel Sit-Up
+Skiing (Downhill),Pre,Alternated Dip Stand Leg Raise
+Skiing (Downhill),Pre,Hyperextension
+Skiing (Downhill),Off,High-Heel Sit-Up
+Skiing (Downhill),Off,Flat-Footed Medium-Stance Barbell Half-Squat
+Skiing (Downhill),Off,Thigh Extension on Leg Extension Machine
+Skiing (Downhill),Off,Thigh Biceps Curl on Leg Extension Machine
+Skiing (Downhill),Off,Barbell Front Lunge
+Skiing (Downhill),Off,Hyperextension
+Skiing (Downhill),Off,Medium- Grip Incline Barbell Bench Press
+Skiing (Downhill),Off,Wide-Grip Front Lat Pull-Down
+Skiing (Downhill),Off,Barbell Power Clean
+Skiing (Downhill),Off,Reverse Close-Grip Front Chin
+Skiing (Downhill),Off,Standing Bent-Over One-Arm Dumbbell Triceps Extension
+Skiing (Downhill),Off,Dips
+Skiing (Downhill),Off,Incline Alternated Dumbbell Curl
+Skiing (Cross-Country),Off,Flat-Footed Medium-Stance Barbell Squat
+Skiing (Cross-Country),Off,Thigh Extension on Leg Extension Machine
+Skiing (Cross-Country),Off,Thigh Biceps Curl on Leg Extension Machine
+Skiing (Cross-Country),Off,Hip Flexion
+Skiing (Cross-Country),Off,Hip Extension
+Skiing (Cross-Country),Off,Hip Adduction
+Skiing (Cross-Country),Off,Seated Two-Arm Low Lat Pull-In
+Skiing (Cross-Country),Off,Wide-Grip Rear Lat Pull-Down
+Skiing (Cross-Country),Off,Medium-Grip Barbell Bench Press
+Skiing (Cross-Country),Off,Medium-Grip Barbell Upright Rowing
+Skiing (Cross-Country),Off,Straight-Arm Dumbbell Pullover
+Skiing (Cross-Country),Off,Standing Close-Grip Triceps Press-Down on Lat Machine
+Skiing (Cross-Country),Off,Incline Alternated Dumbbell Curl
+Skiing (Cross-Country),Off,Incline Low-Pulley Side Leg Raise
+Skiing (Cross-Country),Off,Lying Leg Crossover
+Skiing (Cross-Country),Off,Alternated Dip Stand Leg Raise
+Skiing (Cross-Country),Pre,Heels-Elevated Wide-Stance Barbell Front Squat to Bench
+Skiing (Cross-Country),Pre,Barbell Front Lunge
+Skiing (Cross-Country),Pre,Thigh Extension on Leg Extension Machine
+Skiing (Cross-Country),Pre,Thigh Biceps Curl on Leg Extension Machine
+Skiing (Cross-Country),Pre,Hip Flexion
+Skiing (Cross-Country),Pre,Hip Extension
+Skiing (Cross-Country),Pre,Standing Barbell Toe Raise
+Skiing (Cross-Country),Pre,Close-Grip Front Lat Pull-Down
+Skiing (Cross-Country),Pre,Reverse Close-Grip Front Chin
+Skiing (Cross-Country),Pre,Seated Side Lateral Raise
+Skiing (Cross-Country),Pre,Standing Dumbbell Upright Rowing
+Skiing (Cross-Country),Pre,Incline Dumbbell Press
+Skiing (Cross-Country),Pre,Dips
+Skiing (Cross-Country),Pre,Standing Alternated Dumbbell Curl
+Skiing (Cross-Country),Pre,Dip Stand Leg Raise
+Skiing (Cross-Country),Pre,High-Heel Sit-Up
+Skiing (Cross-Country),In,Barbell Front Lunge
+Skiing (Cross-Country),In,Freehand Side Lunge
+Skiing (Cross-Country),In,Hip Flexion
+Skiing (Cross-Country),In,Hip Extension
+Skiing (Cross-Country),In,Close-Grip Barbell Bench Press
+Skiing (Cross-Country),In,Barbell Power Clean and Jerk
+Skiing (Cross-Country),In,Reverse Close-Grip Front Chin
+Skiing (Cross-Country),In,Standing Bent-Over Two-Arm Dumbbell Triceps Extension
+Skiing (Cross-Country),In,Alternated Low-Pulley Leg Pull-In
+Soccer,Off,Flat-Footed Medium-Stance Barbell Squat
+Soccer,Off,Freehand Jump Squat
+Soccer,Off,Hip Flexion
+Soccer,Off,Hip Extension
+Soccer,Off,Hip Adduction
+Soccer,Off,Donkey Toe Raise
+Soccer,Off,Bent-Arm Barbell Pullover
+Soccer,Off,Medium-Grip Barbell Upright Rowing
+Soccer,Off,Medium-Grip Front Chin
+Soccer,Off,Hyperextension
+Soccer,Off,Standing Close-Grip Triceps Press-Down on Lat Machine
+Soccer,Off,Incline Dumbbell Curl
+Soccer,Off,Wrestler's Bridge
+Soccer,Off,Bent-Knee Sit-Up
+Soccer,In,Medium-Stance Top-Pad Leg Press on Universal Machine
+Soccer,In,Standing One-Legged Toe Raise on Ram Thrust Machine
+Soccer,In,Barbell Power Clean and Press
+Soccer,In,Straight-Arm Dumbbell Pullover
+Soccer,In,Dips
+Soccer,In,Wrestler's Bridge
+Soccer,In,Thigh Extension on Leg Extension Machine
+Soccer,In,Thigh Biceps Curl on Leg Extension Machine
+Soccer,In,High-Heel Sit-Up
+All-Around Athlete,In,Medium-Grip Barbell Upright Rowing
+All-Around Athlete,In,Dips
+All-Around Athlete,In,Step-Ups with Barbell
+All-Around Athlete,In,Standing Toe Raise on Power Rack
+Running,In,Medium-Grip Barbell Bench Press
+Running,In,Wide-Grip Rear Chin
+Running,In,Standing Military Press
+Running,In,Standing Face-Away Two-Arm Bar Triceps Extension on High-Pulley
+Running,In,Seated Alternated Dumbbell Curl
+Running,In,Medium-Stance Lower-Pad Leg Press on Universal Machine
+Running,In,Thigh Biceps Curl on Leg Extension Machine
+Running,In,Step-Ups with Barbell
+Running,In,Hyperextension
+Running,In,Bent-Knee Sit-Up
+Running,Off,Incline Dumbbell Fly
+Running,Off,Seated Two-Arm High Lat Pull-In
+Running,Off,Medium-Grip Barbell Upright Rowing
+Running,Off,Kneeling Head-Supported Close-Grip Triceps Extension on High Pulley
+Running,Off,Incline Alternated Dumbbell Curl
+Running,Off,Bent-Knee Sit-Up
+Running,Off,Flat-Footed Medium-Stance Barbell Half-Squat
+Running,Off,Thigh Extension on Leg Extension Machine
+Running,Off,Thigh Biceps Curl on Leg Extension Machine
+Running,Off,Step-Ups with Barbell
+Running,Off,Hyperextension
+Running,Off,Jackknife Sit-Up
+Cricket,Off,Incline Arms-Extended Sit-Up
+Cricket,Off,Incline Leg Pull-In
+Cricket,Off,Seated Barbell Twist
+Cricket,Off,Thigh Extension on Leg Extension Machine
+Cricket,Off,Thigh Biceps Curl on Leg Extension Machine
+Cricket,Off,Heels-Elevated Wide-Stance Barbell Hack Squat
+Cricket,Off,Hip Abduction
+Cricket,Off,Medium-Grip Barbell Bench Press
+Cricket,Off,Straight-Arm Dumbbell Pullover
+Cricket,Off,Barbell Shoulder Shrug
+Cricket,Off,Bent-Over Wide-Grip Barbell Rowing
+Cricket,Off,Incline Close-Grip Easy-Curl Bar Triceps Curl
+Cricket,Off,Standing Medium-Grip Easy-Curl Bar Curl
+Cricket,Off,Seated Palms-Down Barbell Wrist Curl
+Cricket,Off,Seated Palms-Up Barbell Wrist Curl
+Cricket,In,High-Heel Sit-Up
+Cricket,In,Stiff-Legged Barbell Dead Lift
+Cricket,In,Medium-Stance Top-Pad Leg Press on Universal Machine
+Cricket,In,Step-Ups with Barbell
+Cricket,In,Medium- Grip Incline Barbell Bench Press
+Cricket,In,Medium-Grip Barbell Upright Rowing
+Cricket,In,Wide-Grip Front Lat Pull-Down
+Cricket,In,Seated One-Arm Dumbbell Palms-Up Wrist Curl
+Cricket,In,Seated One-Arm Dumbbell Palms-Down Wrist Curl
+Cricket,In,Standing Arms-Extended Wrist-Roller Wrist Curl
+Cricket,Pre,Bent-Knee Sit-Up
+Cricket,Pre,Alternated Dip Stand Leg Raise
+Cricket,Pre,Seated Barbell Twist
+Cricket,Pre,Flat-Footed Medium-Stance Barbell Squat
+Cricket,Pre,Thigh Extension on Leg Extension Machine
+Cricket,Pre,Thigh Biceps Curl on Leg Extension Machine
+Cricket,Pre,Dumbbell Side Lunge
+Cricket,Pre,Bent-Arm Lateral
+Cricket,Pre,Seated Two-Arm Low Lat Pull-In
+Cricket,Pre,Seated Palms-Out Dumbbell Press
+Cricket,Pre,Hyperextension
+Cricket,Pre,Standing Close-Grip Triceps Press-Down on Lat Machine
+Cricket,Pre,Dips
+Cricket,Pre,Seated Dumbbell Curl
+Cricket,Pre,Seated One-Arm Dumbbell Palms-Up Wrist Curl
+Cricket,Pre,Seated One-Arm Dumbbell Palms-Down Wrist Curl

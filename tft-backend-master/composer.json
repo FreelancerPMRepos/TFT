@@ -1,0 +1,78 @@
+{
+    "name": "yiisoft/yii2-app-advanced",
+    "description": "Yii 2 Advanced Project Template",
+    "keywords": ["yii2", "framework", "advanced", "project template"],
+    "homepage": "http://www.yiiframework.com/",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
+        "forum": "http://www.yiiframework.com/forum/",
+        "wiki": "http://www.yiiframework.com/wiki/",
+        "irc": "irc://irc.freenode.net/yii",
+        "source": "https://github.com/yiisoft/yii2"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.14",
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+        "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
+        "sagarp1992/groovy-trans": "dev-master",
+        "2amigos/yii2-ckeditor-widget": "~1.0",
+        "2amigos/yii2-tinymce-widget" : "~1.1",
+        "yii2mod/yii2-markdown": "*",
+        "yiisoft/yii2-apidoc": "~2.1.0",
+        "firebase/php-jwt": "^4.0",
+        "rbtphp/yii2-ffmpeg": "*",
+        "yiisoft/yii2-imagine": "*",
+        "bilberrry/yii2-digitalocean-spaces": "^0.1.2",
+        "kartik-v/yii2-widget-select2": "@dev",
+        "skeeks/yii2-assets-auto-compress": "*",
+        "php-ffmpeg/php-ffmpeg": "^0.14.0",
+        "kartik-v/yii2-mpdf": "dev-master",
+        "mpdf/mpdf": "^8.0",
+        "rogeecn/yii2-simple-ajax-uploader": "~1.0.1",
+        "smladeoye/yii2-paystack": "^1.0",
+        "jianjye/php-cfstream": "dev-master",
+        "lajax/yii2-translate-manager": "^1.8",
+        "nikosid/yii2-cloudinary": "dev-master",
+        "griffinledingham/php-apple-signin": "^1.0",
+        "boundstate/yii2-mailgun": "^1.0",
+        "kriswallsmith/buzz": "^1.1",
+        "nyholm/psr7": "^1.2",
+        "wadeshuler/yii2-sendgrid": "^1.0",
+        "open-ecommerce/yii2-backuprestore": "dev-master",
+        "kartik-v/yii2-grid": "@dev",
+        "yii2mod/yii2-cron-log": "*",
+        "2amigos/yii2-date-picker-widget": "~1.0",
+        "kartik-v/yii2-widget-datepicker": "dev-master",
+        "kartik-v/yii2-date-range": "*",
+        "philippfrenzel/yii2fullcalendar": "*",
+        "jino5577/yii2-date-range-picker": "*",
+        "google/apiclient": " ^2.0",
+        "stripe/stripe-php": "^7.54"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "~2.1.0",
+        "yiisoft/yii2-gii": "~2.1.0",
+        "yiisoft/yii2-faker": "~2.0.0",
+        "codeception/base": "^2.4.0",
+        "phpunit/phpunit": "~6.5.5",
+        "codeception/verify": "~1.0.0",
+        "symfony/browser-kit": ">=2.7 <=4.2.4",
+        "insolita/yii2-migration-generator": "~3.1"
+    },
+    "config": {
+        "process-timeout": 1800,
+        "fxp-asset": {
+            "enabled": false
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
